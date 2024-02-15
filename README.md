@@ -9,6 +9,3 @@ Reproduction repository for: https://github.com/ionic-team/capacitor/issues/7259
 ## Alternative issue:
 It seems like when running `yarn install` you get a similar error but for cypress instead.
 For now it seems like the best way to reproduce the issue is to run `ionic start --type=vue` locally to create a new app.
-
-
-Or, just run `ionic start --type=vue` and make a new ionic app locally and you will get the error when it creates the app.
